@@ -1,4 +1,9 @@
-### Hi there 👋
+# BRENT CARLIN <br> FRONT END ENGINEER 
+
+I have 13 years of experience working with cross-functional <br>
+teams to create websites and digital experiences for local and global brands.
+
+Currently i'm the Digital Director for [Markham Yard](https://www.markhamyard.com/).
 
 <!--
 **brent14/brent14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
